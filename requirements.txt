@@ -1,0 +1,11 @@
+streamlit
+streamlit-folium
+folium
+geopy
+pandas
+numpy
+requests
+cdsapi
+shapely
+python-dotenv
+streamlit_js_eval
